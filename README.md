@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFFF&center=true&vCenter=true&width=600&lines=Web+Developer;Python+Developer;Building+Real-World+Projects;Code+•+Build+•+Improve+•+Repeat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00FFFF&center=true&vCenter=true&width=600&lines=Code+•+Build+•+Improve+•+Repeat" />
 </h3>
 
 ---
@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BesettyShubham17&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/BesettyShubham17?style=for-the-badge&color=00c7ff" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/BesettyShubham17?style=for-the-badge&color=ff69b4" alt="Stars" />
 </p>
 
 ---
@@ -101,8 +100,22 @@ Passionate Web Developer focused on building impactful applications and learning
 
 ---
 
-<!-- SECTION I — PROFESSIONAL FOOTER -->
+<!-- SECTION I — EXTRA FEATURES -->
+## 🔥 Activity & Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BesettyShubham17&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/BesettyShubham17/BesettyShubham17/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+<!-- SECTION J — PROFESSIONAL FOOTER -->
 ## 🤝 Let’s Connect
 
 Thanks for visiting my profile. Let’s build something amazing together.  
-**Portfolio Coming Soon 🚀**
+
+🌐 **Portfolio:** [Visit My Portfolio](https://your-portfolio-link.com) 🚀✨
