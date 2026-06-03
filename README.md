@@ -15,56 +15,36 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Shubham Besetty**, an Information Technology student and Full Stack Developer passionate about creating practical digital solutions.
-
-I enjoy transforming ideas into real-world applications through clean code, modern technologies, and continuous learning. Whether it's developing web applications, solving challenging problems, or exploring new technologies, I'm always looking for opportunities to build, improve, and grow.
-
-### Quick Facts
+**Shubham Besetty** is an Information Technology student and Full Stack Developer with skills in web technologies, JavaScript, backend development, and database management systems. Passionate about problem-solving and building scalable software solutions through real-world projects while continuously learning modern technologies and development practices.
 
 * 🎓 Information Technology Student
 * 💻 Full Stack Developer
-* 🚀 Passionate about building real-world applications
-* 🌱 Continuously learning modern technologies and development practices
-* 🤝 Open to internships, collaborations, and exciting opportunities
-* 📫 Reach me at: **[shubhambesetty@gmail.com](mailto:shubhambesetty@gmail.com)**
+* 🚀 Building practical and scalable web applications
+* 🌱 Continuously learning and improving development skills
+* 🤝 Open to internships and collaboration opportunities
+* 📫 **[shubhambesetty@gmail.com](mailto:shubhambesetty@gmail.com)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Scripting
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,nodejs,express,mongodb,mysql,git,github,vscode,vercel" />
 </p>
 
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
-
-### Database
-
-* MongoDB
-* SQL
-* DBMS
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,vercel" />
-</p>
-
-* Render
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 **Personal Portfolio Website**
-
-https://portfolio-henna-xi-46.vercel.app/
+<p align="center">
+  <a href="https://portfolio-henna-xi-46.vercel.app/">
+    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -82,6 +62,10 @@ https://portfolio-henna-xi-46.vercel.app/
 
 🔗 https://people-counter-app-production.up.railway.app/
 
+### 🌐 Personal Portfolio
+
+🔗 https://portfolio-henna-xi-46.vercel.app/
+
 ---
 
 ## 📊 GitHub Statistics
@@ -93,7 +77,15 @@ https://portfolio-henna-xi-46.vercel.app/
 
 ---
 
-## 📈 Contribution Activity
+## 🟩 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00D9FF/BesettyShubham17" alt="GitHub Contributions" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BesettyShubham17&theme=tokyo-night&hide_border=true" />
